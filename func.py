@@ -1,2 +1,2 @@
 def func():
-	print('smth')
+	print('smth else')
