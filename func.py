@@ -1,2 +1,2 @@
 def func():
-	print('smth else')
+	print('Get some loolz!')
