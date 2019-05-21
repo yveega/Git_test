@@ -6,3 +6,9 @@ And one more to see
 Step again
 Again
 Do it
+More 
+Mor
+more
+...
+Strings
+Is it okay?
