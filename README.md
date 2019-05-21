@@ -7,7 +7,7 @@ Step again
 Again
 Do it
 More 
-Mor
+Moró
 more
 ...
 Strings
