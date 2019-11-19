@@ -1,5 +1,5 @@
 import func.py
 
-print('Hi everyone')
+print('Hi Kolya')
 
 func()
