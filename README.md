@@ -12,3 +12,4 @@ more
 ...
 Strings
 Is it okay?
+Hello from Kolya
